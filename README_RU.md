@@ -51,7 +51,7 @@
 
 ### WAN-интерфейс
 
-![Правила WAN](screenshots/WAN Interface.png)
+![Правила WAN](screenshots/WANInterface.png)
 
 Одно разрешающее правило для IPv4 — обеспечивает выход хост-машины в интернет через pfSense.
 
