@@ -51,7 +51,7 @@ The network is divided into three isolated VLANs, enforced by pfSense firewall r
 
 ### WAN Interface
 
-![WAN Firewall Rules](screenshots/WAN_Interface.png)
+![WAN Firewall Rules](screenshots/WAN Interface.png)
 
 A single permissive IPv4 rule to allow the host machine outbound internet access through pfSense.
 
